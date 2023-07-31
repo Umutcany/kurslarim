@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "content": "Muhteşem Angular dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?",
+      "title": "Angular",
+      "price": 130
+    },
+    {
+      "id": 2,
+      "content": "Muhteşem vue.js dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?",
+      "title": "vue.js",
+      "price": 94
+    },
+    {
+      "id": 3,
+      "content": "Muhteşem React dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?",
+      "title": "React",
+      "price": 150
+    },
+    {
+      "id": 4,
+      "content": "Muhteşem Javascript dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?",
+      "title": "Javascript",
+      "price": 45
+    },
+    {
+      "id": 5,
+      "content": "Muhtemeşen Html, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, repellat?",
+      "title": "html",
+      "price": 0
+    }
+  ]
+}
